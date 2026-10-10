@@ -4,9 +4,9 @@
 		"settings":
 		{
 			"openbutton": 0,
-			"hideicon": true,
+			"hideicon": false,
 			"hideiconafter": 300,
-			"iconurl": "https://imgur.com/TALcuqp.png",
+			"iconurl": "https://imgur.com/0Emg6SY.png",
 			"disableicontext": true,
 			"iconposition": 0,
 			"icontextcolor": 0,
@@ -18,7 +18,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Bem Vindo",
-				"imageurl": "https://imgur.com/EEfPuGD.png",
+				"imageurl": "https://imgur.com/vG9jFq2.png",
 				"content": [
 					{
 						"title": "",
@@ -29,7 +29,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Informações",
-				"imageurl": "https://imgur.com/g7OJFdc.png",
+				"imageurl": "https://imgur.com/GUfvp0Z.png",
 				"content": [
 					{
 						"title": "",
@@ -39,8 +39,8 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Players Online",
-				"imageurl": "https://imgur.com/ITXsEgV.png",
+				"buttontext": "Online",
+				"imageurl": "https://imgur.com/jRB8Rk4.png",
 				"content": [
 					{
 						"title": "<TextStyle.Orange> </>",
@@ -49,14 +49,32 @@
 				]
 			},
 			{
-				"layout": 2,
-				"buttontext": "Registro",
-				"imageurl": "https://imgur.com/r8BxWF1.png",
+				"layout": 1,
+				"buttontext": "Criopod",
+				"imageurl": "https://imgur.com/3fO8Iyz.png",
 				"content": [
 					{
-						"title": "<TextStyle.Orange> </>",
+						"title": "",
 						"text": ""
-					},
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Solo Farm",
+				"imageurl": "https://imgur.com/2W18FzO.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Chat",
+				"imageurl": "https://imgur.com/YiaR2EE.png",
+				"content": [
 					{
 						"title": "<TextStyle.Orange> </>",
 						"text": ""
@@ -65,13 +83,20 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Mods",
-				"imageurl": "https://imgur.com/GsMpnUh.png",
+				"buttontext": "Saida do ARK",
+				"imageurl": "https://imgur.com/37BtNjv.png",
 				"content": [
 					{
 						"title": "<TextStyle.Orange> </>",
 						"text": ""
-					},
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Canal",
+				"imageurl": "https://imgur.com/xM6o4dM.png",
+				"content": [
 					{
 						"title": "<TextStyle.Orange> </>",
 						"text": ""
@@ -81,12 +106,12 @@
 		],
 		"links": [
 			{
-				"text": "Nosso Discord",
+				"text": "Discord",
 				"url": "https://discord.gg/dRKejMEkQg"
 			},
 			{
-				"text": "Registro Discord",
-				"url": "https://discord.gg/VeRqkVhpDz"
+				"text": "Cadastro",
+				"url": "https://discord.com/channels/1499191241789804647/1550925437855731845"
 			},
 			{
 				"text": "TikTok",
